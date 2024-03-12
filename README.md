@@ -25,9 +25,3 @@ I am a Computer Science student passionate about developing creative and efficie
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtguerson&theme=dark" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/mtguerson">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtguerson&layout=compact&theme=dark" />
-  </a>
-</p>
