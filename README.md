@@ -21,9 +21,9 @@ I am a Computer Science student passionate about developing creative and efficie
 
 <p align="center">
   <a href="https://github.com/mtguerson">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mtguerson&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mtguerson&show_icons=true&theme=highcontrast" />
   </a>
   <a href="https://github.com/mtguerson">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtguerson&theme=dark" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtguerson&theme=highcontrast" />
   </a>
 </p>
