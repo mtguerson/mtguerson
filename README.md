@@ -11,11 +11,14 @@ I am a Computer Science student passionate about developing creative and efficie
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=styledcomponents)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=NestJS)
+
 
 ## GitHub Statistics 📊
 
