@@ -18,7 +18,7 @@ I am a Computer Science student passionate about developing creative and efficie
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=NestJS)
-
+![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 
 ## GitHub Statistics 📊
 
