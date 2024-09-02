@@ -21,6 +21,8 @@ I am a Computer Science student passionate about developing creative and efficie
 ![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=Vercel)
 ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=Render)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 
 ## GitHub Statistics 📊
 
