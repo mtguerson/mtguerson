@@ -19,6 +19,8 @@ I am a Computer Science student passionate about developing creative and efficie
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=NestJS)
 ![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=Vercel)
+![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=Render)
 
 ## GitHub Statistics 📊
 
