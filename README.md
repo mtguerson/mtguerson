@@ -14,6 +14,7 @@ I am a Computer Science student passionate about developing creative and efficie
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Fastify](https://img.shields.io/badge/-Fastify-black?style=flat-square&logo=fastify)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
