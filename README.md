@@ -24,6 +24,9 @@ I am a Computer Science student passionate about developing creative and efficie
 ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=Render)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=Prisma)
+![Bun](https://img.shields.io/badge/-Bun-black?style=flat-square&logo=Bun)
+![Pnpm](https://img.shields.io/badge/-pnpm-black?style=flat-square&logo=pnpm)
 
 ## GitHub Statistics 📊
 
