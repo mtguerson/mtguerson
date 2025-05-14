@@ -27,6 +27,7 @@ I am a Computer Science student passionate about developing creative and efficie
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=Prisma)
 ![Bun](https://img.shields.io/badge/-Bun-black?style=flat-square&logo=Bun)
 ![Pnpm](https://img.shields.io/badge/-pnpm-black?style=flat-square&logo=pnpm)
+![Drizzle](https://img.shields.io/badge/-drizzle-black?style=flat-square&logo=drizzle)
 
 ## GitHub Statistics 📊
 
