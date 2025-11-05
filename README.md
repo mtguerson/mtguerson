@@ -2,7 +2,7 @@
 
 ## Hello! 👋
 
-I am a Computer Science student passionate about developing creative and efficient solutions using a variety of technologies. Here is a summary of the tools and languages I work with:
+I’m a Full Stack Software Engineer experienced in building modern, scalable, and high-performance web applications.
 
 ## Technologies 🔧
 
