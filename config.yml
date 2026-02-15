@@ -63,6 +63,9 @@ projects:
   - repo: "mtguerson/financeAI"
     arm: 1
     description: "FinanceAI is a Next.js-powered web app that uses AI to provide personalized financial insights, real-time market analytics, and investment recommendations."
+  - repo: "mtguerson/WAITERAPP"
+    arm: 2
+    description: "WAITERAPP is an innovative app designed for waitstaff and restaurants, streamlining real-time order taking and management."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
@@ -89,8 +92,8 @@ stats:
 # Language display settings
 languages:
   exclude:                     # Languages to hide from the telemetry chart
-    - "HTML"
-    - "CSS"
+    - "C"
+    - "Jupyter Notebook"
     - "Shell"
     - "Makefile"
   max_display: 8               # Maximum number of languages to show
